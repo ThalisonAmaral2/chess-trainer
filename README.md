@@ -39,7 +39,7 @@ npm run dev
 
 Click on **Next** Button to load the first Puzzle
 
-<!-- ![Chess Trainer Demo](https://raw.githubusercontent.com/ThalisonAmaral2/chess-trainer/refs/heads/development/media/Puzzle.png) -->
+![Chess Trainer Demo](https://raw.githubusercontent.com/ThalisonAmaral2/chess-trainer/refs/heads/development/media/Puzzle.png)
 
 
 ## Upcoming features
