@@ -1,8 +1,13 @@
 # Chess Trainer
 
+## What's the benefit of using it?
+- You can quickly copy the FEN code of any position
+
+
 # How can I run the Chess Trainer?
 
 You will need to download the [Chess Trainer API](https://github.com/ThalisonAmaral2/chess-trainer-api)
+
 
 ### 0. Create a directory `Recommendend`
 ```sh
@@ -34,4 +39,11 @@ npm run dev
 
 Click on **Next** Button to load the first Puzzle
 
-![Chess Trainer Demo](https://raw.githubusercontent.com/ThalisonAmaral2/chess-trainer/refs/heads/development/media/Puzzle.png)
+<!-- ![Chess Trainer Demo](https://raw.githubusercontent.com/ThalisonAmaral2/chess-trainer/refs/heads/development/media/Puzzle.png) -->
+
+
+## Upcoming features
+
+- Solved puzzle history
+- Export Solved Puzzles History as PGN
+- Puzzle Rush Mode _(Solve the maximum puzzles you can under 5 minutes)_
